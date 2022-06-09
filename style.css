@@ -1,0 +1,27 @@
+.wrapper{
+    width: 1100px;
+    border: 1px solid rebeccapurple; 
+    display: flex;
+    justify-content: space-between;
+}
+.box{
+    width: 150px;
+    height: 150px;
+    color: aqua;
+    text-align: center;
+    font-size: 35px;
+    background-color: bisque;
+}
+.one{
+    order: 0;
+}
+.two{
+    order: 1;
+}
+.three{
+    order: 04;
+}
+.four{
+    order: 01;
+}
+
